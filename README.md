@@ -112,6 +112,14 @@ Tenho conhecimentos nas tecnologias:
 ### 📊 Minhas Estatísticas do GitHub
 
 ![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=Cayanhs&show_icons=true&theme=dark)
+<img 
+      align="left" 
+      alt="Tecnologias Mais Usadas" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cayanhs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
+/>
+
+## 📊 **Estatísticas das Tecnologias no Meu GitHub**
 
 | Tecnologia  | Uso (%)  |
 |------------|---------|
@@ -121,6 +129,19 @@ Tenho conhecimentos nas tecnologias:
 | <img align="left" alt="SCSS" title="SCSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/> **SCSS** | **0,79%** |
 | <img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/> **PHP** | **11,39%** |
 | <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> **JavaScript** | **6,57%** |
+
+---
+
+### 📈 **Distribuição das Tecnologias**
+```mermaid
+pie
+    title Distribuição das Tecnologias
+    "HTML" : 52.26
+    "TypeScript" : 3.68
+    "CSS" : 25.17
+    "SCSS" : 0.79
+    "PHP" : 11.39
+    "JavaScript" : 6.57
 
 
 

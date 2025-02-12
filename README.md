@@ -130,6 +130,10 @@ Tenho conhecimentos nas tecnologias:
 | <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> **JavaScript** | **6,57%** |
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cayanhs&show_icons=true&theme=dark)
+
+
+
 
 ### 🎨 Visualização do Gráfico
 

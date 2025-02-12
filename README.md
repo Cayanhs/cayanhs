@@ -113,15 +113,16 @@ Tenho conhecimentos nas tecnologias:
 
 ![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=Cayanhs&show_icons=true&theme=dark)
 
+<img 
+      align="left" 
+      alt="Tecnologias Mais Usadas" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cayanhs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
+/>
+
+
+
 ### 🔥 Linguagens Mais Usadas
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Cayanhs&layout=compact&theme=dark)
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cayanhs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
-
 

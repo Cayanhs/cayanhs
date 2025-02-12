@@ -116,4 +116,5 @@ Tenho conhecimentos nas tecnologias:
 ### 🔥 Linguagens Mais Usadas
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Cayanhs&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cayanhs&layout=compact&theme=dark)
 

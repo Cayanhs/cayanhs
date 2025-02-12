@@ -111,13 +111,6 @@ Tenho conhecimentos nas tecnologias:
 ### 📊 Estatísticas
 ### 📊 Minhas Estatísticas do GitHub
 
-![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=Cayanhs&show_icons=true&theme=dark)
-<img 
-      align="left" 
-      alt="Tecnologias Mais Usadas" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cayanhs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
-/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cayanhs&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cayanhs&show_icons=true&theme=dark)
 

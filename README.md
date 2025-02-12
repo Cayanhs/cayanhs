@@ -113,8 +113,5 @@ Tenho conhecimentos nas tecnologias:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cayanhs&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cayanhs&show_icons=true&theme=dark)
-
-### 🔥 Linguagens Mais Usadas
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Cayanhs&layout=compact&theme=dark)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cayanhs&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cayanhs&layout=compact&langs_count=6&theme=dark&hide=javascript,jquery,php,html,css,bootstrap)

@@ -118,6 +118,8 @@ Tenho conhecimentos nas tecnologias:
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cayanhs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
 />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cayanhs&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cayanhs&show_icons=true&theme=dark)
 
 ### 🔥 Linguagens Mais Usadas
 

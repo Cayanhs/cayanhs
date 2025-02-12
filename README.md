@@ -4,6 +4,24 @@
 
 Me chamo Cayan Holanda da Silva, tenho 18 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
 
+Tenho conhecimentos nas tecnologias:
+<br>
+• JavaScript,
+<br>
+• Jquery
+<br>
+• PHP,
+<br>
+• Mysql,
+<br>
+• Bootstrap.
+<br>
+• Git,
+<br>
+• Html.
+<br>
+• Css.
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -48,14 +66,6 @@ Me chamo Cayan Holanda da Silva, tenho 18 anos. Atualmente, estou cursando Anál
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
@@ -64,35 +74,11 @@ Me chamo Cayan Holanda da Silva, tenho 18 anos. Atualmente, estou cursando Anál
 />
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
     alt="PHP" 
     title="PHP"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
 <img 
     align="left" 

@@ -109,4 +109,30 @@ Tenho conhecimentos nas tecnologias:
 <br/>
 
 ### 📊 Estatísticas
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaiekdacosta&show_icons=true&theme=dark)
+### 📊 Minhas Estatísticas do GitHub
+
+![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=Cayanhs&show_icons=true&theme=dark)
+
+### 🔥 Linguagens Mais Usadas
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Cayanhs&layout=compact&theme=dark)
+
+---
+### 📈 Estatísticas das Tecnologias nos Meus Repositórios
+
+| Tecnologia  | Uso (%)  |
+|------------|---------|
+| <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> **HTML** | **52,26%** |
+| <img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/> **TypeScript** | **3,68%** |
+| <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/> **CSS** | **25,17%** |
+| <img align="left" alt="SCSS" title="SCSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/> **SCSS** | **0,79%** |
+| <img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/> **PHP** | **11,39%** |
+| <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> **JavaScript** | **6,57%** |
+
+---
+
+### 🎨 Visualização do Gráfico
+
+Caso o gráfico Mermaid não seja renderizado corretamente no seu GitHub, aqui está uma versão em imagem:  
+
+![Gráfico de Tecnologias](sandbox:/mnt/data/github_tech_chart.png)

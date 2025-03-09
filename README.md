@@ -21,6 +21,16 @@ Tenho conhecimentos nas tecnologias:
 • Html.
 <br>
 • Css.
+<br>
+• React.
+<br>
+• node JS.
+<br>
+• typeScrit.
+<br>
+
+
+
 
 ### 🤖 Linguagens e Tecnologias
 

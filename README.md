@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Cayan Holanda da Silva, tenho 18 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
+Me chamo Cayan Holanda da Silva, tenho 19 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
 
 Tenho conhecimentos nas tecnologias:
 <br>
